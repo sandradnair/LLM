@@ -1,0 +1,11 @@
+streamlit
+ollama
+Pillow
+openai
+faster-whisper
+whisper
+feedparser>=6.0.0
+beautifulsoup4
+dateparser
+requests
+
